@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  font-family: "Open Sans", Arial, sans-serif;
+  font-size: 20px;
+  }
+
+
+/*#header h1 {
+  color: black;
+   margin-top: 29px;
+   font-size: 39px;
+   position: fixed;
+   background-color: white;
+
+}
+
+
+#ul {
+  font-size: 25px;
+
+  justify-content: center;
+  align-items: center;
+ 
+}
+#navbar {
+  width: 400px;
+  height: 800px;
+  
+  padding: 10px;
+  margin-bottom: 10px;
+  border-right: 2px solid #333;
+  overflow: scroll;
+  position: fixed;
+  
+
+
+.scrolls {
+
+
+}
+
+
+#navbar {
+  position: fixed;
+  top: 35px;
+   overflow: scroll;
+   scroll-snap-type: y mandatory;
+   }
+   
+   
+    
+}
+
+#main-doc {
+  display: flex;
+}
+
+.scrolls {
+  width: 68%;
+  
+   
+}
+
+/*#navbar a {
+  display: block;
+  padding: 10px 30px;
+  color: #4d4e53;
+  text-decoration: none;
+  cursor: pointer;
+  border-bottom: 1px solid #666;
+   scroll-snap-type: y mandatory;
+}
+
+#ul {
+ scroll-margin: 10px;
+ scroll-snap-align: start;
+ scroll-snap-stop: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*<div class="container y-scroll y-mandatory">
+<div class="wrapper">
+<div class="element">1</div>
+<div class="element">2</div>
+<div class="element">3</div>
+<div class="element">4</div>
+</div>
+</div>
+
+
+
+
+
+/*.container {
+  width: 320px;
+  height: 320px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 2px solid #333;
+  overflow: scroll;
+  position: relative;
+}
+
+.y-mandatory {
+  scroll-snap-type: y mandatory;
+}
+
+.element {
+  width: 300px;
+  height: 300px;
+  scroll-margin: 10px;
+  scroll-snap-align: start;
+  scroll-snap-stop: normal;
+  color: white;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}*/

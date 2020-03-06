@@ -3,7 +3,7 @@
 
 > FCC: Technical Documentation Page
 
-![screenshot](images/screen)
+![screenshot](images/screen.png)
 
 
 ## Built With

@@ -109,16 +109,13 @@ code {
   #main-doc { 
     position: relative;
     top: 24px;
-    margin: 300px 0 0 20px;
+    margin: 300px 0 0 30px;
     padding: 0;
+    left: 20px;
   }
 }
 
 @media only screen and (max-width: 600px) {
-  #main-doc {
-    margin-left: -10px;
-  }
-
   code {
     margin-left: -20px;
     width: 100%;
@@ -127,4 +124,11 @@ code {
     padding-right: 45px;
     min-width: 233px;
   }
+
+  #main-doc {
+    position: relative;
+    top: 24px;
+    margin: 300px 0 0 30px;
+    padding: 0;
+  
 }
